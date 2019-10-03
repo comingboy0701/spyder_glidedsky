@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="lTWiCtFC7hdXdOhwIKTdsbyagwgciL890bTBWuMx">
+        <title>GlidedSky</title>
+        <!-- Scripts -->
+    <script src="http://glidedsky.com/js/app.js"></script>
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+    <!-- Styles -->
+    <link href="http://glidedsky.com/css/app.css" rel="stylesheet">
+        <style>
+                      .MSSKj24eoY { width:1em }
+                      .Mnx18KybdX { left:1em }
+                      .lj12NbaE { opacity:0 }
+                      .IH25BSKR { float:left }
+                      .Gaa20LAI { float:left }
+                      .qqx11biL { position:relative }
+                      .UV1sil { float:left }
+                      .Crtw10miomh { float:left }
+                      .Aj29iYSOi { letter-spacing:0.4em }
+                      .idtmv19WVz { width:1em }
+                      .jjZ8htaZp { float:left }
+                      .nJC30URnI { opacity:0 }
+                      .cv14joiFE { width:1em }
+                      .TxYV5Zwwps { float:left }
+                      .egf16qbqB:before { content:"189" }
+                      .bZX32QcM { float:left }
+                      .Mnx18KybdX { width:1em }
+                      .nJC30URnI { margin-right:-1em }
+                      .ije22RBHi { position:relative }
+                      .OAX3BspKM { width:1em }
+                      .idtmv19WVz { left:1em }
+                      .cv14joiFE { float:left }
+                      .IH25BSKR { margin-right:-1em }
+                      .MSSKj24eoY { float:left }
+                      .ncjmi26dupzV { position:relative }
+                      .oKp2WbF { width:1em }
+                      .RNDX13QkH { float:left }
+                      .oKp2WbF { position:relative }
+                      .jjZ8htaZp { left:-1em }
+                      .oljin17SHFPg { opacity:0 }
+                      .Crtw10miomh { width:1em }
+                      .OAX3BspKM { left:-1em }
+                      .yEr27eRi { float:left }
+                      .ije22RBHi { left:2em }
+                      .eJS21jkVfD { width:1em }
+                      .egf16qbqB { float:left }
+                      .zKyR9mUK { float:left }
+                      .oKp2WbF { float:left }
+                      .idtmv19WVz { float:left }
+                      .Klw6zbB { width:1em }
+                      .TxYV5Zwwps:before { content:"439" }
+                      .Xc4SUL { opacity:0 }
+                      .idtmv19WVz { position:relative }
+                      .jjZ8htaZp { position:relative }
+                      .lj12NbaE { float:left }
+                      .QY0zsgm { width:1em }
+                      .lj12NbaE { margin-right:-1em }
+                      .qqx11biL { float:left }
+                      .yEr27eRi { position:relative }
+                      .RNDX13QkH { width:1em }
+                      .jjZ8htaZp { width:1em }
+                      .Gaa20LAI { left:-2em }
+                      .CGBwh23IuJ { width:1em }
+                      .egf16qbqB { letter-spacing:0.4em }
+                      .eJS21jkVfD { float:left }
+                      .ncjmi26dupzV { width:1em }
+                      .JkIa7GZV { position:relative }
+                      .qqx11biL { left:-2em }
+                      .MSSKj24eoY { left:-1em }
+                      .yEr27eRi { left:-1em }
+                      .eJS21jkVfD { opacity:0 }
+                      .OAX3BspKM { float:left }
+                      .JkIa7GZV { width:1em }
+                      .yEr27eRi { width:1em }
+                      .Mnx18KybdX { position:relative }
+                      .zKyR9mUK { width:1em }
+                      .ncjmi26dupzV { left:1em }
+                      .Xc4SUL { float:left }
+                      .JkIa7GZV { left:-1em }
+                      .CGBwh23IuJ { float:left }
+                      .Gaa20LAI { position:relative }
+                      .OAX3BspKM { position:relative }
+                      .TxYV5Zwwps { letter-spacing:0.4em }
+                      .Klw6zbB { position:relative }
+                      .ije22RBHi { float:left }
+                      .nJC30URnI { float:left }
+                      .lj12NbaE { width:1em }
+                      .zKyR9mUK { position:relative }
+                      .nJC30URnI { width:1em }
+                      .TqoT31KqP { letter-spacing:0.4em }
+                      .oljin17SHFPg { float:left }
+                      .Xc4SUL { width:1em }
+                      .oljin17SHFPg { width:1em }
+                      .Aj29iYSOi { float:left }
+                      .TqoT31KqP:before { content:"188" }
+                      .oKp2WbF { left:1em }
+                      .JkIa7GZV { float:left }
+                      .bZX32QcM:before { content:"422" }
+                      .IH25BSKR { width:1em }
+                      .TqoT31KqP { float:left }
+                      .eJS21jkVfD { margin-right:-1em }
+                      .qqx11biL { width:1em }
+                      .IH25BSKR { opacity:0 }
+                      .MSSKj24eoY { position:relative }
+                      .QY0zsgm { opacity:0 }
+                      .bZX32QcM { letter-spacing:0.4em }
+                      .mKuz15fzALz { float:left }
+                      .ncjmi26dupzV { float:left }
+                      .Klw6zbB { float:left }
+                      .ije22RBHi { width:1em }
+                      .mKuz15fzALz { width:1em }
+                      .Aj29iYSOi:before { content:"292" }
+                      .Gaa20LAI { width:1em }
+                      .CGBwh23IuJ { left:-1em }
+                      .UV1sil { width:1em }
+                      .Mnx18KybdX { float:left }
+                      .ydDMH28tTuNv { float:left }
+                      .QY0zsgm { margin-right:-1em }
+                      .Xc4SUL { margin-right:-1em }
+                      .oljin17SHFPg { margin-right:-1em }
+                      .zKyR9mUK { left:2em }
+                      .QY0zsgm { float:left }
+                      .ydDMH28tTuNv { width:1em }
+                      .CGBwh23IuJ { position:relative }
+                      .Klw6zbB { left:2em }
+            </style>
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-2566260602093595",
+            enable_page_level_ads: true
+        });
+    </script>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-75859356-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-75859356-3');
+        </script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?020fbaad6104bcddd1db12d6b78812f6";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    
+</head>
+<body>
+    <div id="app">
+        <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
+            <div class="container">
+                <a class="navbar-brand" href="http://glidedsky.com">
+                    GlidedSky
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-size: 1.15em">
+                    <!-- Left Side Of Navbar -->
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item ">
+                            <a class="nav-link" href="http://glidedsky.com">Home</a>
+                        </li>
+                                                <li class="nav-item ">
+                            <a class="nav-link" href="http://glidedsky.com/rank">Rank</a>
+                        </li>
+                            <li class="nav-item ">
+                                <a class="nav-link" href="http://glidedsky.com/about">About</a>
+                            </li>
+                                            </ul>
+                    <!-- Right Side Of Navbar -->
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Authentication Links -->
+                                                    <li class="nav-item dropdown">
+                                <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
+                                    coming <span class="caret"></span>
+                                </a>
+
+                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="http://glidedsky.com/logout"
+                                       onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                                        Logout
+                                    </a>
+
+                                    <form id="logout-form" action="http://glidedsky.com/logout" method="POST" style="display: none;">
+                                        <input type="hidden" name="_token" value="lTWiCtFC7hdXdOhwIKTdsbyagwgciL890bTBWuMx">                                    </form>
+                                </div>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </nav>
+
+        <main class="py-4">
+                <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                                            <div class="col-md-1">
+                                                            <div class="QY0zsgm">1</div>
+                                                            <div class="UV1sil">4</div>
+                                                            <div class="oKp2WbF">5</div>
+                                                            <div class="OAX3BspKM">3</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="Xc4SUL">5</div>
+                                                            <div class="TxYV5Zwwps"></div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="Klw6zbB">2</div>
+                                                            <div class="JkIa7GZV">3</div>
+                                                            <div class="jjZ8htaZp">7</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="zKyR9mUK">1</div>
+                                                            <div class="Crtw10miomh">7</div>
+                                                            <div class="qqx11biL">3</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="lj12NbaE">9</div>
+                                                            <div class="RNDX13QkH">3</div>
+                                                            <div class="cv14joiFE">0</div>
+                                                            <div class="mKuz15fzALz">6</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="egf16qbqB"></div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="oljin17SHFPg">5</div>
+                                                            <div class="Mnx18KybdX">9</div>
+                                                            <div class="idtmv19WVz">4</div>
+                                                            <div class="Gaa20LAI">3</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="eJS21jkVfD">6</div>
+                                                            <div class="ije22RBHi">3</div>
+                                                            <div class="CGBwh23IuJ">3</div>
+                                                            <div class="MSSKj24eoY">5</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="IH25BSKR">6</div>
+                                                            <div class="ncjmi26dupzV">1</div>
+                                                            <div class="yEr27eRi">3</div>
+                                                            <div class="ydDMH28tTuNv">1</div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="Aj29iYSOi"></div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="nJC30URnI">4</div>
+                                                            <div class="TqoT31KqP"></div>
+                                                    </div>
+                                            <div class="col-md-1">
+                                                            <div class="bZX32QcM"></div>
+                                                    </div>
+                                    </div>
+            </div>
+        </div>
+        <ul class="pagination" role="navigation">
+        
+                    <li class="page-item">
+                <a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=23" rel="prev" aria-label="&laquo; Previous">&lsaquo;</a>
+            </li>
+        
+        
+                    
+            
+            
+                                                                        <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=1">1</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=2">2</a></li>
+                                                                    
+                            <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+            
+            
+                                
+            
+            
+                                                                        <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=21">21</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=22">22</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=23">23</a></li>
+                                                                                <li class="page-item active" aria-current="page"><span class="page-link">24</span></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=25">25</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=26">26</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=27">27</a></li>
+                                                                    
+                            <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+            
+            
+                                
+            
+            
+                                                                        <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=999">999</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=1000">1000</a></li>
+                                                        
+        
+                    <li class="page-item">
+                <a class="page-link" href="http://glidedsky.com/level/web/crawler-css-puzzle-1?page=25" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
+            </li>
+            </ul>
+
+    </div>
+        </main>
+    </div>
+                    <script>
+        _hmt.push(['_trackEvent', 'level-web', 'view', 'crawler-css-puzzle-1']);
+        gtag('event', 'view', {
+            'event_category': 'level-web',
+            'event_label': 'crawler-css-puzzle-1',
+        });
+    </script>
+    </body>
+</html>
